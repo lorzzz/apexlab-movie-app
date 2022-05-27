@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/002d2ec0-21b3-401e-940e-0c0c50ebae4b/microsoft.web/sites/subscriptions/002d2ec0-21b3-401e-940e-0c0c50ebae4b/resourceGroups/lorz-rg/providers/Microsoft.Web/sites/apex-movie",
+    "appService.deploySubpath": "frontend"
+}
